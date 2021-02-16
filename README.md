@@ -18,7 +18,7 @@
     
    3. what is the purpose, values and mission? List 2 or 3 key questions that will guide the startup's choices. These should be essential questions that serve as touchstones to direct your companies efforts. For instance, how can the startup have impact? What engages our passions?
    
-    1. How can we make our customer's home more convient? 2.   
+    1. How can we make our customer's home more convient? 2. What motivates us to come up with new ways into making our home lives easier?   
 
 
 Possible Slogans: 
