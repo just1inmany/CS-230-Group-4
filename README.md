@@ -9,7 +9,8 @@
 **B. Long-Term Vision Statement**
    
    1. what are the goals?
-        *Our company's goal is to find new ways to provide convience for our customer's home* 
+    
+    *Our company's goal is to find new ways to provide convience for our customer's home* 
    
    2. where did your idea come from ( a class, a job, a need)?
       This idea came from the need of wanting a more comfortable life within our own home. 
