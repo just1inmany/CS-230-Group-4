@@ -29,9 +29,8 @@ special conferences, trade meetings where you could present your product/service
 give aways, hackathons, promotional deals, etc.
 Give REAL ideas not fake ones.   Mention real companies and provide links to their homepage.   For venture capital (VC) give websites and discuss why THAT VC would be interested in YOUR startup (they specialize in human computing and your headphones would fit the profile of there past investments),  Special conferences & how they fit with YOUR product/service and give URL**
 
-    1. Social Media: Like Facebook and Instagram where we can post giveaways like Roombas, vaccums, or appliances like mircorwaves or refigerators.
+    1. Social Media: Facebook and Instagram promotions where we can post giveaways including items such as Roombas, vaccums, or appliances like mircorwaves or refigerators.
     2. Co-Marketing: Opportunities exist to co-market our product with home insurance providers such as StateFarm, Progressive, and Geico. (https://www.statefarm.com/ , https://www.progressive.com/ , https://www.geico.com/)
-    3. Funding: A possible funder would be Google because they have invested $450 million into ADT which is also a home security system. (https://news.adt.com/news-releases/news-release-details/adt-announces-closing-450-million-investment-google#:~:text=BOCA%20RATON%2C%20Fla.%20%2C%20Sept,GLOBE%20NEWSWIRE)%20%2D%2D%20ADT%20Inc.)
     
 
 
