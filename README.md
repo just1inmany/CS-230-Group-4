@@ -31,6 +31,7 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
 
     1. Social Media: Facebook and Instagram promotions where we can post giveaways including items such as Roombas, vaccums, or appliances like mircorwaves or refigerators.
     2. Co-Marketing: Opportunities exist to co-market our product with home insurance providers such as StateFarm, Progressive, and Geico. (https://www.statefarm.com/ , https://www.progressive.com/ , https://www.geico.com/)
+    3. Funding: A possible funder would be Google since they invested $450 million in ADT which is similar to the product that our company would be selling. (https://news.adt.com/news-releases/news-release-details/adt-announces-closing-450-million-investment-google#:~:text=BOCA%20RATON%2C%20Fla.%20%2C%20Sept,GLOBE%20NEWSWIRE)%20%2D%2D%20ADT%20Inc.). 
     
 
 
