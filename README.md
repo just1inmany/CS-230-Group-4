@@ -37,3 +37,4 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
 
 Possible Slogans: 
 "A smart man has a saef (smart?) home"
+"Bringing security and convenience to your home"
