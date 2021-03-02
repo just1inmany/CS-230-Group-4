@@ -44,7 +44,6 @@ Possible Slogans:
 
 **A. Core Values - Give core values of company answering questions: How do you want to be thought off? What are the details of the core values of the company?**
 
-    1. sdfsd 
-
+    1. Be responsible
 
 
