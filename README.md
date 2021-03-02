@@ -43,6 +43,7 @@ Possible Slogans:
 #Item 2:
 
 **A. Core Values - Give core values of company answering questions: How do you want to be thought off? What are the details of the core values of the company?**
-    1. fdhdg
+    
+   1. axcf
 
 
