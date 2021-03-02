@@ -40,10 +40,11 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
 Possible Slogans: 
 "A smart man has a saef (smart?) home" ... "Bringing security and convenience to your home" ... "SaefHoam: An allegiance to convenience"
 
-#Item 2:
+# Item 2:
 
 **A. Core Values - Give core values of company answering questions: How do you want to be thought off? What are the details of the core values of the company?**
-    
-   1. axcf
+
+    1. sdfsd 
+
 
 
