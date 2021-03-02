@@ -34,6 +34,8 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
     3. Funding: A possible funder would be Google since they invested $450 million in ADT which is similar to the product that our company would be selling. (https://news.adt.com/news-releases/news-release-details/adt-announces-closing-450-million-investment-google#:~:text=BOCA%20RATON%2C%20Fla.%20%2C%20Sept,GLOBE%20NEWSWIRE)%20%2D%2D%20ADT%20Inc.). 
     4. Collaboration: Co-development with other companies such as Google to link our product with their software producing enhanced home safety and convenience.
 
+**D. Teams - Give a picture and a biography for each person in the leadership of your company (which are your groupmates) and discuss their strengths as it i relates to the formation of this startup tech company. Read this for more detailed discussion and example.**
+
 
 Possible Slogans: 
 "A smart man has a saef (smart?) home" ... "Bringing security and convenience to your home" ... "SaefHoam: An allegiance to convenience"
