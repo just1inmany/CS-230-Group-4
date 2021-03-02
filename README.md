@@ -42,14 +42,14 @@ Possible Slogans:
 
 # Item 2:
 
-**A. Core Values - Give core values of company answering questions: How do you want to be thought of? What are the details of the core values of the company?**
+**A. Core Values - Give core values of company answering questions: How do you want to be thought off? What are the details of the core values of the company?**
 
     1.  Our company wants to be seen as an upfront and organized buisness.
     2.  Our second core value is to strive to to be as user friendly and as convient to our customers as possible.
     3.  Our third core value is to ensure the privacy and security of our customers when using our product. 
 **B. Motivation - Give an understanding of the desired company culture by answering: What do you love? What do you fear?**
 
-    1. We are
+    1. Our company wants to create an open and friendly work environment where we respect each other's time 
 
 
 
