@@ -49,7 +49,7 @@ Possible Slogans:
     3.  Our third core value is to ensure the privacy and security of our customers when using our product. 
 **B. Motivation - Give an understanding of the desired company culture by answering: What do you love? What do you fear?**
 
-    1. Our company wants to create an open and friendly work environment where we respect each other's time 
+    1. Our company wants to create an open and friendly work environment where we respect each other's time and ideas that might be of benefit to the company. Overall, having a safe workspace. Our fear is having a buiness culture where no one is allowed to be themselves. We do not want to be seen as a buisness that takes advangate of our employees and we do not wish to be a stagnant buiness where we stop innovating new ideas to improve our products.
 
 
 
