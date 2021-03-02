@@ -46,7 +46,7 @@ Possible Slogans:
 
     1.  Our company wants to be seen as an upfront and organized buisness.
     2.  Our second core value is to strive to to be as user friendly and as convient to our customers as possible.
-    3.  
+    3.  Our third core value is to ensure the privacy and security of our customers when using our product. 
 
 
 
