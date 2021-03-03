@@ -57,7 +57,7 @@ Possible Slogans:
     3. Reliable
     4. Open-minded
     5. Resposible
-    6. Thorough
+    6. Thorough (Dedicated?)
 
 
 
