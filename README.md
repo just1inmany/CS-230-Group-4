@@ -36,6 +36,8 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
 
 **D. Teams - Give a picture and a biography for each person in the leadership of your company (which are your groupmates) and discuss their strengths as it i relates to the formation of this startup tech company. Read this for more detailed discussion and example.**
 
+Vinh is a computer science student at California State University East Bay as well as co founder and director of Saefhoam Technologies, focused on integrated smart home solutions with a focus on security. For over 5 years Vinh was a member of many STEM pilot programs and technology initiatives in the New Haven Unified School District including the Department of Education’s Race to the Top technology grant rollout, Project Lead the Way’s Cyber Security course, and early access Engineering courses.
+
 **E. Strategy: for next 3 to 5 years. In addition, please share at least one case study of the closest potential competitor and what you learned from it in terms of maximizing the startups potential for the future.**
     
     1. 
