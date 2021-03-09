@@ -36,6 +36,10 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
 
 **D. Teams - Give a picture and a biography for each person in the leadership of your company (which are your groupmates) and discuss their strengths as it i relates to the formation of this startup tech company. Read this for more detailed discussion and example.**
 
+**E. Strategy: for next 3 to 5 years. In addition, please share at least one case study of the closest potential competitor and what you learned from it in terms of maximizing the startups potential for the future.**
+    
+    1. 
+
 
 Possible Slogans: 
 "A smart man has a saef (smart?) home" ... "Bringing security and convenience to your home" ... "SaefHoam: An allegiance to convenience"
@@ -58,6 +62,8 @@ Possible Slogans:
     4. Open-minded
     5. Resposible
     6. Thorough (Dedicated?)
+
+
 
 
 
