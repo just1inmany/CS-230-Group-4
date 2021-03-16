@@ -68,7 +68,10 @@ Vinh is a computer science student at California State University East Bay as we
 
 **A.Core Items - Enumerate the core items in your ethics policy and give details of each policy item and its meaning.**
 
-    1. 
+    1. Avoid discrimination: We will do our best to prevent any form of discrimination whether it be from race, gender, religious beliefs, or income. We will provide equal level of service satisfcation to all our customers. We will be flexible to accommodate the needs of both customers and employees alike.
+    2. Keep data privacy: Our products won't keep personal data that aren't beneficial to the customers. Such as their race, religion, or income. We will only keep data that is needed such as names and addresses.
+    3. Provide continous services: Strive to provide continuous and unbroken service throughout a products lifetime. We don't have planned obsolences and plan to improve products on a regular basis.
+    4. 
 
 
 Follow the ethics policy.
