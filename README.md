@@ -66,6 +66,11 @@ Vinh is a computer science student at California State University East Bay as we
 
 # Item 3: Ethics Policy
 
+**A.Core Items - Enumerate the core items in your ethics policy and give details of each policy item and its meaning.**
+
+    1. 
+
+
 Follow the ethics policy.
 
 
