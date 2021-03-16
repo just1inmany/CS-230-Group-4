@@ -64,7 +64,7 @@ Vinh is a computer science student at California State University East Bay as we
     5. Resposible
     6. Thorough (Dedicated?)
 
-
+# Item 3: Ethics Policy
 
 
 
