@@ -66,6 +66,6 @@ Vinh is a computer science student at California State University East Bay as we
 
 # Item 3: Ethics Policy
 
-
+Follow the ethics policy.
 
 
