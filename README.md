@@ -70,7 +70,7 @@ Vinh is a computer science student at California State University East Bay as we
 
     1. Avoid discrimination: We will do our best to prevent any form of discrimination whether it be from race, gender, religious beliefs, or income. We will provide equal level of service satisfcation to all our customers. We will be flexible to accommodate the needs of both customers and employees alike.
     2. Keep data privacy: Our products won't keep personal data that isn't directly relevant to our services and beneficial to the customers. This includes their race, religion, political inclinations, or income. We will only keep data that is needed such as names and addresses.
-    3. Provide continous services: Strive to provide continuous and unbroken service throughout a products lifetime. We don't have planned obsolences and plan to improve products on a regular basis.
+    3. Provide continous services: Strive to provide continuous and unbroken service throughout a product's lifetime. We don't include planned obsolences and plan to improve products on a regular basis. Product lines that are discontinued will still function at their current level of functionality.
     4. 
 
 
