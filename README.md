@@ -73,7 +73,10 @@ Vinh is a computer science student at California State University East Bay as we
     3. Provide continous services: Strive to provide continuous and unbroken service throughout a products lifetime. We don't have planned obsolences and plan to improve products on a regular basis.
     4. Be open to feedback: Our products will be designed so that customers can have easy access to send us feedbacks or concerns they might have. Whether it be from phone calls or emails. We will uphold our first policy and take every customer's comments seriously and repair any issues our products may have. 
     5. Provide safe products: Our products will be design with safety as our top priority. In case of an emergency, we will have a recall plan and to make sure that the safety of our customers comes first.
-    6. 
+
+**B.Board - List 3 real people (maybe tech leaders) that you want on your board, a brief bio AND why you choose them for the board.**
+
+    1. 
 
 Follow the ethics policy.
 
