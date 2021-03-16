@@ -42,7 +42,7 @@ Vinh is a computer science student at California State University East Bay as we
     
     1. When looking at companies that could potentially compete with our product, it becomes very clear that other companies lack the unified vision that we have. Our sights are        set on providing our customers with the very best technology that combines convenience with security. 
 
-Possible Slogans: 
+**F. Slogan** Possible Slogans: 
 "A smart man has a saef (smart?) home" ... "Bringing security and convenience to your home" ... "SaefHoam: An allegiance to convenience"
 
 # Item 2:
