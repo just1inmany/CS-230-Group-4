@@ -80,4 +80,4 @@ Vinh is a computer science student at California State University East Bay as we
 
 Follow the ethics policy.
 
-
+**Item 4 : Experimentation & Priorities**
