@@ -41,6 +41,7 @@ Vinh is a computer science student at California State University East Bay as we
 **E. Strategy: for next 3 to 5 years. In addition, please share at least one case study of the closest potential competitor and what you learned from it in terms of maximizing the startups potential for the future.**
     
     1. When looking at companies that could potentially compete with our product, it becomes very clear that other companies lack the unified vision that we have. Our sights are        set on providing our customers with the very best technology that combines convenience with security. 
+    2. Secure a complete product chain with a supplier, manufacturer, and disbributer pipeline to create products and get them to market.
 
 **F. Slogan** Possible Slogans: 
 "A smart man has a saef (smart?) home" ... "Bringing security and convenience to your home" ... "SaefHoam: An allegiance to convenience"
