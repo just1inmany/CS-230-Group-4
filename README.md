@@ -50,7 +50,14 @@ Vinh is a computer science student at California State University East Bay as we
             - Earn $50k in additional revenue
             - gain 100 new clients
             - Reduce customer turnover by 5%
-
+        3. Achieve 90% customer staisfaction:
+            - Collect feedback from at least 50% of customers
+            - Keep main webpage uptime by 5%
+            - 
+        4. Keep Average request response under 2 days
+            - Maintain 100 to 1 support technicain ratio
+            - 
+            - 
 **F. Slogan** Possible Slogans: 
 "A smart man has a saef (smart?) home" ... "Bringing security and convenience to your home" ... "SaefHoam: An allegiance to convenience"
 
