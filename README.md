@@ -92,7 +92,7 @@ Vinh is a computer science student at California State University East Bay as we
 
 **B.Board - List 3 real people (maybe tech leaders) that you want on your board, a brief bio AND why you choose them for the board.**
 
-    1. 
+    1. Jason Johnson is the CEO and co-founder of August, the home automation company behind the August Smart Lock. Prior to August, he co-founded mobile security software company AirCover and ebook software startup BookShout!. He also previously served as vice president of Dolby Laboratories, vice president of Global IP Solutions and was the co-founder and CEO of InterQuest. He would be a great choice because he is really experienced in the home security field and is also a great leader, making his company August really grow in revenue and also as a company.
 
 Follow the ethics policy.
 
