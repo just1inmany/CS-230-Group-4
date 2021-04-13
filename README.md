@@ -47,15 +47,15 @@ Vinh is a computer science student at California State University East Bay as we
             - Gain 5,000 followers on Instagram
             - Gain 1,000 followers on facebook
         2. Achieve record semi-annual revenue growth:
-            - Earn $50k in additional revenue
-            - gain 100 new clients
-            - Reduce customer turnover by 5%
-        3. Achieve 90% customer staisfaction:
-            - Collect feedback from at least 50% of customers
+            - Earn $50k in additional revenue next quarter
+            - gain 100 new clients in Q1
+            - Reduce customer turnover by 5% over the next year
+        3. Achieve 90% customer staisfaction: during the initial product launch quarter
+            - Collect feedback from at least 50% of customers 1 month after sale
             - Keep main webpage uptime by 5%
             - 
         4. Keep Average request response under 2 days
-            - Maintain 100 to 1 support technicain ratio
+            - Maintain an average 100 support request to 1 support technician ratio
             - 
             - 
 **F. Slogan** Possible Slogans: 
