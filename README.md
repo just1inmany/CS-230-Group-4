@@ -92,7 +92,7 @@ Vinh is a computer science student at California State University East Bay as we
 
 **B.Board - List 3 real people (maybe tech leaders) that you want on your board, a brief bio AND why you choose them for the board.**
 
-    1. 
+    1. Robert Herjavec......
 
 Follow the ethics policy.
 
