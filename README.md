@@ -112,5 +112,5 @@ Follow the ethics policy.
     Experiment 2: Product Prototype
     
     Experiment 3: Customer Satisfaction
-- Select a group of ___ trial participants to recieve protoype devices.
-- Trial participants should use the devices for a period of two weeks and then complete a feedback survey on possible improvements and user experience.
+    - Select a group of ___ trial participants to recieve protoype devices.
+    - Trial participants should use the devices for a period of two weeks and then complete a feedback survey on possible improvements and user experience.
