@@ -93,6 +93,7 @@ Vinh is a computer science student at California State University East Bay as we
 
     1. Robert Herjavec......
     2. Mikko Hyppönen - with one of his quotes being ““Whenever an appliance is described as being smart, it’s vulnerable.”, Mikko is a chief researcher at F- Secure which is a cyber security company. What makes us want Mikko as a board member is that he is aware of how smart tech can affect our customers. In addition with his experience, he can guide us towards a direction where we can make our products as ethically secure as possible without breaching our consumer’s privacy. 
+    3. Jason Johnson is the CEO and co-founder of August, the home automation company behind the August Smart Lock. Prior to August, he co-founded mobile security software company AirCover and ebook software startup BookShout!. He also previously served as vice president of Dolby Laboratories, vice president of Global IP Solutions and was the co-founder and CEO of InterQuest. He would be a great choice because he is really experienced in the home security field and is also a great leader, making his company August really grow in revenue and also as a company.
 
 Follow the ethics policy.
 
