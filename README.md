@@ -105,6 +105,8 @@ Follow the ethics policy.
         4. Batteries - EB-BG360CBU 2000mAh (around $13)
         5. Wifi Chip - W8887SA0 wifi IC For Samsung Tab4 (around 6$)
         6. Flash Memory - NAND Flash Memory chips (5-10 cents per gig)
+        7. GPU - EVGA GeForce 8400 GS 1GB Video Graphics Card 01G-P3-1302-LR (around $15)
+        8. USB/ Power Supply - MEAN WELL HRP-300-24 (around $60)
  
 
     Experiment 1: Social Media Campaign
