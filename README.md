@@ -56,8 +56,8 @@ Vinh is a computer science student at California State University East Bay as we
             - 
         4. Keep Average request response under 2 days
             - Maintain an average 100 support request to 1 support technician ratio
-            - 
-            - 
+            - Implement a customer service software
+            - Use and shortcuts when responding to emails, categorize and prioritize the emails you receive.
 **F. Slogan** Possible Slogans: 
 "A smart man has a saef (smart?) home" ... "Bringing security and convenience to your home" ... "SaefHoam: An allegiance to convenience"
 
