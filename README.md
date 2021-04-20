@@ -93,10 +93,18 @@ Vinh is a computer science student at California State University East Bay as we
 **B.Board - List 3 real people (maybe tech leaders) that you want on your board, a brief bio AND why you choose them for the board.**
 
     1. Robert Herjavec......
+    2. Mikko Hyppönen - with one of his quotes being ““Whenever an appliance is described as being smart, it’s vulnerable.”, Mikko is a chief researcher at F- Secure which is a cyber security company. What makes us want Mikko as a board member is that he is aware of how smart tech can affect our customers. In addition with his experience, he can guide us towards a direction where we can make our products as ethically secure as possible without breaching our consumer’s privacy. 
 
 Follow the ethics policy.
 
 # Item 4 : Experimentation & Priorities
+
+    1. Tablet prototype build for SaefHoem:
+        1. Gyroscopes - MP65M GYROSCOPE IC (around $2)
+        2. Speaker - A Pair of Loud Speakers for Samsung Galaxy Tab S2 9.7 T815 T810 (SKU: MBRPSS2773) (around $11)
+        3. CPU - INTEL AT80584KJ073N Xeon X3363 Quad-core (around $35)
+        4. Batteries - EB-BG360CBU 2000mAh (around $13)
+ 
 
     Experiment 1: Social Media Campaign
     
