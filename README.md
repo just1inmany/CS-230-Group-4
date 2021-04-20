@@ -99,7 +99,7 @@ Follow the ethics policy.
 
 # Item 4 : Experimentation & Priorities
 
-    1. Tablet prototype build for SaefHoem:
+    A. Tablet prototype build for SaefHoem:
         1. Gyroscopes - MP65M GYROSCOPE IC (around $2)
         2. Speaker - A Pair of Loud Speakers for Samsung Galaxy Tab S2 9.7 T815 T810 (SKU: MBRPSS2773) (around $11)
         3. CPU - INTEL AT80584KJ073N Xeon X3363 Quad-core (around $35)
