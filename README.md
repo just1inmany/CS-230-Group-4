@@ -93,6 +93,7 @@ Vinh is a computer science student at California State University East Bay as we
 
     1. Robert Herjavec......
     2. Mikko Hyppönen - with one of his quotes being ““Whenever an appliance is described as being smart, it’s vulnerable.”, Mikko is a chief researcher at F- Secure which is a cyber security company. What makes us want Mikko as a board member is that he is aware of how smart tech can affect our customers. In addition with his experience, he can guide us towards a direction where we can make our products as ethically secure as possible without breaching our consumer’s privacy. 
+    3. 
 
 Follow the ethics policy.
 
@@ -105,6 +106,8 @@ Follow the ethics policy.
         4. Batteries - EB-BG360CBU 2000mAh (around $13)
         5. Wifi Chip - W8887SA0 wifi IC For Samsung Tab4 (around 6$)
         6. Flash Memory - NAND Flash Memory chips (5-10 cents per gig)
+        7. GPU - EVGA GeForce 8400 GS 1GB Video Graphics Card 01G-P3-1302-LR (around $15)
+        8. USB/ Power Supply - MEAN WELL HRP-300-24
  
 
     Experiment 1: Social Media Campaign
