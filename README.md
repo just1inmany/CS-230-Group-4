@@ -104,6 +104,8 @@ Follow the ethics policy.
         2. Speaker - A Pair of Loud Speakers for Samsung Galaxy Tab S2 9.7 T815 T810 (SKU: MBRPSS2773) (around $11)
         3. CPU - INTEL AT80584KJ073N Xeon X3363 Quad-core (around $35)
         4. Batteries - EB-BG360CBU 2000mAh (around $13)
+        5. Wifi Chip - W8887SA0 wifi IC For Samsung Tab4 (around 6$)
+        6. Flash Memory - NAND Flash Memory chips (5-10 cents per gig)
  
 
     Experiment 1: Social Media Campaign
