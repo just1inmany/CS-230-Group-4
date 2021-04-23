@@ -108,6 +108,9 @@ Follow the ethics policy.
         6. Flash Memory - NAND Flash Memory chips (5-10 cents per gig)
         7. GPU - EVGA GeForce 8400 GS 1GB Video Graphics Card 01G-P3-1302-LR (around $15)
         8. USB/ Power Supply - MEAN WELL HRP-300-24 (around $60)
+        9. Touch-Screen Controller Chip - Texas Instruments TSC2046IPWG4 (around $3)
+        10. Image Sensor - OmniVision Technologies OV02659-A47A (around $2)
+        11. Accelerometer - Adafruit Triple-Axis MMA8451 Accelerometer (around $8)
  
 
     Experiment 1: Social Media Campaign
