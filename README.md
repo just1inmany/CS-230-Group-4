@@ -37,6 +37,8 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
 
 Vinh is a computer science student at California State University East Bay as well as co founder and director of Saefhoam Technologies, focused on integrated smart home solutions with a focus on security. For over 5 years Vinh was a member of many STEM pilot programs and technology initiatives in the New Haven Unified School District including the Department of Education’s Race to the Top technology grant rollout, Project Lead the Way’s Cyber Security course, and early access Engineering courses.
 
+Alex is a second year student at California State University East Bay studying computer science and a co-founder of Saefhoam Technologies....
+
 **E. Strategy: for next 3 to 5 years. In addition, please share at least one case study of the closest potential competitor and what you learned from it in terms of maximizing the startups potential for the future.**
     
     1. When looking at companies that could potentially compete with our product, it becomes very clear that other companies lack the unified vision that we have. Our sights are        set on providing our customers with the very best technology that combines convenience with security.
@@ -91,8 +93,8 @@ Vinh is a computer science student at California State University East Bay as we
 
 **B.Board - List 3 real people (maybe tech leaders) that you want on your board, a brief bio AND why you choose them for the board.**
 
-    1. Robert Herjavec......
-    2. Mikko Hyppönen - with one of his quotes being ““Whenever an appliance is described as being smart, it’s vulnerable.”, Mikko is a chief researcher at F- Secure which is a cyber security company. What makes us want Mikko as a board member is that he is aware of how smart tech can affect our customers. In addition with his experience, he can guide us towards a direction where we can make our products as ethically secure as possible without breaching our consumer’s privacy. 
+    1. Robert Herjavec is one of the most recognizable business leaders in North America. As an entreprneur, Robert has built and sold many IT companies. Today, Herjavec Group, one of North America's fastest growing tech companies, is recognized as a global cybersecurity operations leader in a variety of areas, the most applicable to our product being security services. Not only would Robert's expertise in both the tech and security industries be important, but his connections within each field would prove invaluable for growing our company.
+    2. Mikko Hyppönen - with one of his quotes being “Whenever an appliance is described as being smart, it’s vulnerable.” Mikko is a chief researcher at F- Secure which is a cyber security company. What makes us want Mikko as a board member is that he is aware of how smart tech can affect our customers. In addition with his experience, he can guide us towards a direction where we can make our products as ethically secure as possible without breaching the privacy of our customers. 
     3. Jason Johnson is the CEO and co-founder of August, the home automation company behind the August Smart Lock. Prior to August, he co-founded mobile security software company AirCover and ebook software startup BookShout!. He also previously served as vice president of Dolby Laboratories, vice president of Global IP Solutions and was the co-founder and CEO of InterQuest. He would be a great choice because he is really experienced in the home security field and is also a great leader, making his company August really grow in revenue and also as a company.
 
 Follow the ethics policy.
