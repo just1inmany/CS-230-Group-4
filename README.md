@@ -65,7 +65,7 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
 
 **A. Core Values - Give core values of company answering questions: How do you want to be thought off? What are the details of the core values of the company?**
 
-    1.  Our company wants to be seen as an upfront and organized buisness.
+    1.  Our first core value is that our company wants to be seen as an upfront and organized buisness.
     2.  Our second core value is to strive to to be as user friendly and as convient to our customers as possible.
     3.  Our third core value is to ensure the privacy and security of our customers when using our product. 
 **B. Motivation - Give an understanding of the desired company culture by answering: What do you love? What do you fear?**
@@ -84,10 +84,10 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
 
 **A.Core Items - Enumerate the core items in your ethics policy and give details of each policy item and its meaning.**
 
-    1. Avoid discrimination: We will do our best to prevent any form of discrimination whether it be from race, gender, religious beliefs, or income. We will provide equal level of service satisfcation to all our customers. We will be flexible to accommodate the needs of both customers and employees alike.
-    2. Keep data privacy: Our products won't keep personal data that aren't beneficial to the customers. Such as their race, religion, or income. We will only keep data that is needed such as names and addresses.
-    3. Provide continous services: Strive to provide continuous and unbroken service throughout a products lifetime. We don't have planned obsolences and plan to improve products on a regular basis.
-    4. Be open to feedback: Our products will be designed so that customers can have easy access to send us feedbacks or concerns they might have. Whether it be from phone calls or emails. We will uphold our first policy and take every customer's comments seriously and repair any issues our products may have. 
+    1. Avoid discrimination and unconscious bias: We will do our best to prevent any form of discrimination whether it be from race, gender, religious beliefs, or income. We will provide equal level of service satisfcation to all our customers. We will be flexible to accommodate the needs of both customers and employees alike.
+    2. Keep everyone's data private: Our products won't keep personal data that aren't beneficial to the customers. Such as their race, religion, or income. We will only keep data that is needed such as names and addresses.
+    3. Provide continous services to clients: Strive to provide continuous and unbroken service throughout a products lifetime. We don't have planned obsolences and plan to improve products on a regular basis.
+    4. Be open to positive and negative feedback from customers: Our products will be designed so that customers can have easy access to send us feedbacks or concerns they might have. Whether it be from phone calls or emails. We will uphold our first policy and take every customer's comments seriously and repair any issues our products may have. 
     5. Provide safe products: Our products will be design with safety as our top priority. In case of an emergency, we will have a recall plan and to make sure that the safety of our customers comes first.
 
 **B.Board - List 3 real people (maybe tech leaders) that you want on your board, a brief bio AND why you choose them for the board.**
