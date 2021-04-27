@@ -53,7 +53,7 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
         3. Achieve 90% customer staisfaction: during the initial product launch quarter
             - Collect feedback from at least 50% of customers 1 month after sale
             - Keep main webpage uptime by 5%
-            - 
+            - Work with at least 50% of those who left a less than satisfactory feedback to see how we can improve
         4. Keep Average request response under 2 days
             - Maintain an average 100 support request to 1 support technician ratio
             - Implement a customer service software
