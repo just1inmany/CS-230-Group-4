@@ -144,3 +144,4 @@ Follow the ethics policy.
     - Record the number of people we have working on those help requests
     - Calculate how long an average request takes to complete
     - Create a formula establishing how many requests can be completed by one technician in a week
+    - Implement this formula to maintain the ratio as our number of clients increases as our company expands
