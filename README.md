@@ -78,7 +78,7 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
     3. Reliable
     4. Open-minded
     5. Resposible
-    6. Thorough (Dedicated?)
+    6. Dedicated
 
 # Item 3: Ethics Policy
 
