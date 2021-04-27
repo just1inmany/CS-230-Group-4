@@ -38,9 +38,14 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
 
 
 **E. Strategy: for next 3 to 5 years. In addition, please share at least one case study of the closest potential competitor and what you learned from it in terms of maximizing the startup's potential for the future.**
-    
-    A. When looking at companies that could potentially compete with our product, it becomes very clear that other companies lack the unified vision that we have. Our sights are set on providing our customers with the very best technology that combines convenience with security.
-    B. OKRs:
+
+   Case Study on Closest Potential Competitor:
+       When observing the products on the market, the closest potential competitors that we have            would be the Amazon Echo and the Google Nest. The Echo can answer questions, research the            internet, command smart home devices and stream music. On the other hand, the Google Nest can        similarly connect your smart home and network systems while additionally doing the basics like        setting alarms and timers. Both products have been successful and we will aim to use what we          have observed from their success to maximize our own. From the Echo, we learned to stay
+       committed to broadening our product's features, while also maintaining functionality of the
+       simple features like the Nest has done. Our product is unique because we offer combining
+       convenience and security all in one.
+   
+   OKRs:
         1. Make Saefhoem well known:
             - Gain 10,000 followers on Twitter
             - Gain 5,000 followers on Instagram
@@ -114,22 +119,10 @@ Follow the ethics policy.
  
 
     Experiment 1: Social Media Campaign
-    - We would use Instagram, Facebook, and Twitter.
-    - Have core messages for each platform that we use.
-    - The posts we make are memorable, which could make you feel something when you see the post.
-    - With each post, it reflects our brand's identity and values.
-    - It is something new, fresh, and insteresting, which could make our brand stand out.
-    - For Instagram, we can use eye-pleasing photos as well as our devices.
-    - For Facebook, we use photos and videos showing off our devices as well as post some tips on ways to improve you home security.
-    - For Twitter, we can start using hashtags to start a trend or also jump on different trends so the brand stays relevant.
+        1. 
     
     Experiment 2: Product Prototype
-    - 
     
     Experiment 3: Customer Satisfaction
-    - We will ask our customer's if they consent to particapate in our experiment
-    - For those that participate we will ask for feedback on our website 
-    - If we get a negative feedback we will ask what about our product they were unstatisfied with 
-    - We will contact the participants via call, email, or text
-    - We will then figure out how to improve our products based on those feedbacks
-  
+    - Select a group of ___ trial participants to recieve protoype devices.
+    - Trial participants should use the devices for a period of two weeks and then complete a feedback survey on possible improvements and user experience.
