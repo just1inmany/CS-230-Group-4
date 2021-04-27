@@ -128,7 +128,8 @@ Follow the ethics policy.
     - For Facebook, we use photos and videos showing off our devices as well as post some tips on ways to improve you home security.
     - For Twitter, we can start using hashtags to start a trend or also jump on different trends so the brand stays relevant.
     
-    Experiment 2: Product Prototype
+    Experiment 2: Revenue Growth
+    -
     
     Experiment 3: Customer Satisfaction
     - Select a group of ___ trial participants to recieve protoype devices.
