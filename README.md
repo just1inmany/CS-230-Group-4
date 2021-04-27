@@ -86,9 +86,9 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
 
     1. Avoid discrimination and unconscious bias: We will do our best to prevent any form of discrimination whether it be from race, gender, religious beliefs, or income. We will provide equal level of service satisfcation to all our customers. We will be flexible to accommodate the needs of both customers and employees alike.
     2. Keep everyone's data private: Our products won't keep personal data that aren't beneficial to the customers. Such as their race, religion, or income. We will only keep data that is needed such as names and addresses.
-    3. Provide continous services to clients: We strive to provide continuous and unbroken service throughout a products lifetime. We don't have planned obsolences and plan to improve products on a regular basis.
+    3. Provide continous services to clients: Strive to provide continuous and unbroken service throughout a products lifetime. We don't have planned obsolences and plan to improve products on a regular basis.
     4. Be open to positive and negative feedback from customers: Our products will be designed so that customers can have easy access to send us feedbacks or concerns they might have. Whether it be from phone calls or emails. We will uphold our first policy and take every customer's comments seriously and repair any issues our products may have. 
-    5. Provide safe products to our customers: Our products will be design with safety as our top priority. We test our products to make sure it is safe to use and to sell to our customers. In case of an emergency, we will have a recall plan and to make sure that the safety of our customers comes first.
+    5. Provide safe products: Our products will be design with safety as our top priority. In case of an emergency, we will have a recall plan and to make sure that the safety of our customers comes first.
 
 **B.Board - List 3 real people (maybe tech leaders) that you want on your board, a brief bio AND why you choose them for the board.**
 
@@ -128,6 +128,7 @@ Follow the ethics policy.
     -Record prior quarterly sales and revenue
     -Create a 10% discount event on products to boost client base
     -Record changes in revenue and clientel count
+    -Survey new customers on whether the sale price event made a large difference in their purchase decision
     
     Experiment 3: Customer Satisfaction
     - Select a group of ___ trial participants to recieve protoype devices.
