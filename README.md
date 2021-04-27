@@ -34,7 +34,7 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
     4. Collaboration: Co-development with other companies such as Google to link our product with their software producing enhanced home safety and convenience.
 
 **D. Teams - Give a picture and a biography for each person in the leadership of your company (which are your groupmates) and discuss their strengths as it i relates to the formation of this startup tech company. Read this for more detailed discussion and example.**
-
+https://docs.google.com/document/d/1G3y_h1Xte7LXOKEWDKBwTG7GgOAk11MuB_4hM8QKLWo/edit?usp=sharing
 
 
 **E. Strategy: for next 3 to 5 years. In addition, please share at least one case study of the closest potential competitor and what you learned from it in terms of maximizing the startup's potential for the future.**
