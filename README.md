@@ -114,14 +114,14 @@ Follow the ethics policy.
  
 
     Experiment 1: Social Media Campaign
-        1. We would use Instagram, Facebook, and Twitter.
-        2. Have core messages for each platform that we use.
-        3. The posts we make are memorable, which could make you feel something when you see the post.
-        4. With each post, it reflects our brand's identity and values.
-        5. It is something new, fresh, and insteresting, which could make our brand stand out.
-        6. For Instagram, we can use eye-pleasing photos as well as our devices.
-        7. For Facebook, we use photos and videos showing off our devices as well as post some tips on ways to improve you home security.
-        8. For Twitter, we can start using hashtags to start a trend or also jump on different trends so the brand stays relevant.
+    - We would use Instagram, Facebook, and Twitter.
+    - Have core messages for each platform that we use.
+    - The posts we make are memorable, which could make you feel something when you see the post.
+    - With each post, it reflects our brand's identity and values.
+    - It is something new, fresh, and insteresting, which could make our brand stand out.
+    - For Instagram, we can use eye-pleasing photos as well as our devices.
+    - For Facebook, we use photos and videos showing off our devices as well as post some tips on ways to improve you home security.
+    - For Twitter, we can start using hashtags to start a trend or also jump on different trends so the brand stays relevant.
     
     Experiment 2: Product Prototype
     
