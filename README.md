@@ -133,3 +133,8 @@ Follow the ethics policy.
     Experiment 3: Customer Satisfaction
     - Select a group of ___ trial participants to recieve protoype devices.
     - Trial participants should use the devices for a period of two weeks and then complete a feedback survey on possible improvements and user experience.
+    - We will ask our customer's if they consent to particapate in our experiment
+    - For those that participate we will ask for feedback on our website 
+    - If we get a negative feedback we will ask what about our product they were unstatisfied with 
+    - We will contact the participants via call, email, or text
+    - We will then figure out how to improve our products based on those feedbacks
