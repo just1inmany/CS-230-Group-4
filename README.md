@@ -66,7 +66,7 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
 **A. Core Values - Give core values of company answering questions: How do you want to be thought off? What are the details of the core values of the company?**
 
     1.  Our first core value is that our company wants to be seen as an upfront and organized buisness.
-    2.  Our second core value is to strive to to be as user friendly and as convient to our customers as possible.
+    2.  Our second core value is to strive to to be as user friendly and as convient to our customers as possible, we don't want them to struggle with our product.
     3.  Our third core value is to ensure the privacy and security of our customers when using our product. 
 **B. Motivation - Give an understanding of the desired company culture by answering: What do you love? What do you fear?**
 
