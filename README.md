@@ -46,6 +46,7 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
        convenience and security all in one.
    
    OKRs:
+   
         1. Make Saefhoem well known:
             - Gain 10,000 followers on Twitter
             - Gain 5,000 followers on Instagram
