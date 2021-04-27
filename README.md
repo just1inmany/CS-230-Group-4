@@ -41,22 +41,22 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
     
     1. When looking at companies that could potentially compete with our product, it becomes very clear that other companies lack the unified vision that we have. Our sights are set on providing our customers with the very best technology that combines convenience with security.
 OKRs:
-        1. Make Saefhoem well known:
-            - Gain 10,000 followers on Twitter
-            - Gain 5,000 followers on Instagram
-            - Gain 1,000 followers on facebook
-        2. Achieve record semi-annual revenue growth:
-            - Earn $50k in additional revenue next quarter
-            - gain 100 new clients in Q1
-            - Reduce customer turnover by 5% over the next year
-        3. Achieve 90% customer staisfaction: during the initial product launch quarter
-            - Collect feedback from at least 50% of customers 1 month after sale
-            - Keep main webpage uptime by 5%
-            -
-        4. Keep Average request response under 2 days
-            - Maintain an average 100 support request to 1 support technician ratio
-            - Implement a customer service software
-            - Use and shortcuts when responding to emails, categorize and prioritize the emails you receive.
+    1. Make Saefhoem well known:
+        - Gain 10,000 followers on Twitter
+        - Gain 5,000 followers on Instagram
+        - Gain 1,000 followers on facebook
+    2. Achieve record semi-annual revenue growth:
+        - Earn $50k in additional revenue next quarter
+        - gain 100 new clients in Q1
+        - Reduce customer turnover by 5% over the next year
+    3. Achieve 90% customer staisfaction: during the initial product launch quarter
+        - Collect feedback from at least 50% of customers 1 month after sale
+        - Keep main webpage uptime by 5%
+        - Work with at least 50% of those who left a less than satisfactory feedback to see how we can improve
+    4. Keep Average request response under 2 days
+        - Maintain an average 100 support request to 1 support technician ratio
+        - Implement a customer service software
+        - Use and shortcuts when responding to emails, categorize and prioritize the emails you receive.
 **F. Slogan** Possible Slogans: 
 "A smart man has a saef (smart?) home" ... "Bringing security and convenience to your home" ... "SaefHoam: An allegiance to convenience"
 
