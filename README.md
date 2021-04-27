@@ -39,14 +39,9 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
 
 **E. Strategy: for next 3 to 5 years. In addition, please share at least one case study of the closest potential competitor and what you learned from it in terms of maximizing the startup's potential for the future.**
 
-   Case Study on Closest Potential Competitor:
-       When observing the products on the market, the closest potential competitors that we have            would be the Amazon Echo and the Google Nest. The Echo can answer questions, research the            internet, command smart home devices and stream music. On the other hand, the Google Nest can        similarly connect your smart home and network systems while additionally doing the basics like        setting alarms and timers. Both products have been successful and we will aim to use what we          have observed from their success to maximize our own. From the Echo, we learned to stay
-       committed to broadening our product's features, while also maintaining functionality of the
-       simple features like the Nest has done. Our product is unique because we offer combining
-       convenience and security all in one.
-   
-   OKRs:
-   
+    A. Case Study on Closest Potential Competitor:
+    When observing the products on the market, the closest potential competitors that we have would be the Amazon Echo and the Google Nest. The Echo can answer questions, research the internet, command smart home devices and stream music. On the other hand, the Google Nest can similarly connect your smart home and network systems while additionally doing the basics like setting alarms and timers. Both products have been successful and we will aim to use what we have observed from their success to maximize our own. From the Echo, we learned to stay committed to broadening our product's features, while also maintaining functionality of the simple features like the Nest has done. Our product is unique because we offer combining convenience and security all in one
+    B. OKRs
         1. Make Saefhoem well known:
             - Gain 10,000 followers on Twitter
             - Gain 5,000 followers on Instagram
