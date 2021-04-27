@@ -56,7 +56,7 @@ Give REAL ideas not fake ones.   Mention real companies and provide links to the
         4. Keep Average request response under 2 days
             - Maintain an average 100 support request to 1 support technician ratio
             - Implement a customer service software
-            - Use and implement shortcuts when responding to emails, categorize and prioritize the emails you receive.
+            - Use and shortcuts when responding to emails, categorize and prioritize the emails you receive.
 **F. Slogan** Possible Slogans: 
 "A smart man has a saef (smart?) home" ... "Bringing security and convenience to your home" ... "SaefHoam: An allegiance to convenience"
 
@@ -126,5 +126,9 @@ Follow the ethics policy.
     Experiment 2: Product Prototype
     
     Experiment 3: Customer Satisfaction
-    - Select a group of ___ trial participants to recieve protoype devices.
-    - Trial participants should use the devices for a period of two weeks and then complete a feedback survey on possible improvements and user experience.
+    - We will ask our customer's if they consent to particapate in our experiment
+    - For those that participate we will ask for feedback on our website 
+    - If we get a negative feedback we will ask what about our product they were unstatisfied with 
+    - We will contact the participants via call, email, or text
+    - We will then figure out how to improve our products based on those feedbacks
+  
