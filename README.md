@@ -138,3 +138,9 @@ Follow the ethics policy.
     - If we get a negative feedback we will ask what about our product they were unstatisfied with 
     - We will contact the participants via call, email, or text
     - We will then figure out how to improve our products based on those feedbacks
+
+    Experiment 4: 
+    - Record the total number of support requests we receive in a week
+    - Record the number of people we have working on those help requests
+    - Calculate how long an average request takes to complete
+    - Create a formula establishing how many requests can be completed by one technician in a week
