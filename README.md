@@ -124,6 +124,7 @@ Follow the ethics policy.
     - For Twitter, we can start using hashtags to start a trend or also jump on different trends so the brand stays relevant.
     
     Experiment 2: Product Prototype
+    - 
     
     Experiment 3: Customer Satisfaction
     - We will ask our customer's if they consent to particapate in our experiment
